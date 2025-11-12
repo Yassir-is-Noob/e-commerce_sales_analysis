@@ -1,10 +1,10 @@
-# [Class Project]
+# Class Project
 
-## 📝 Project Overview
+## Project Overview
 
 This project provides a comprehensive data analysis of **[briefly describe the dataset, e.g., sales orders/ecommerce data]** to evaluate financial performance and logistical efficiency across various product categories and geographic regions. The analysis focuses on identifying key drivers of high/low profit margins and pinpointing areas for operational improvement.
 
-## 📊 Key Findings & Recommendations
+## Key Findings & Recommendations
 
 ### Financial Performance (Profit Margin Drivers)
 
@@ -30,12 +30,12 @@ The analysis was performed using Python and the Pandas library, including the fo
 4.  **Statistical Testing:** Used a statistical test (T-test) to compare the mean shipping cost of low-margin orders ($5.20) against high-margin orders ($6.68). The resulting P-value ($0.0000$) indicated a statistically significant difference.
 5.  **Visualization:** Plotted key financial metrics and delivery data using bar charts for visual analysis.
 
-## 📁 Files
+## Files
 
 * `Analysis.ipynb`: The main Jupyter Notebook containing the complete data cleaning, analysis, visualizations, and conclusions.
 * `README.md`: This file.
 
-## 🛠 Setup and Dependencies
+## Setup and Dependencies
 
 To run this project locally, you will need:
 
